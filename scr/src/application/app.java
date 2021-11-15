@@ -4,7 +4,7 @@ import entities.triangle;
 import java.util.Locale;
 import java.util.Scanner;
 
-
+//calculo de triangulo
 
 public class app {
     public static void main(String[] args) {
